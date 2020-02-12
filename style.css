@@ -1,0 +1,60 @@
+html {
+    font-family: 'Abel', sans-serif;
+}
+
+body {
+    background-color: white;
+    color:darkblue;
+    /* width: 50%;
+    max-width: 800px;
+    min-width: 480px; */
+    margin: 0 auto;
+}
+/* body .content-wrapper h4{
+    color:darkcyan;
+    background-image:url("./imgs/g1.PNG");
+    height: 300px;
+    text-align: center;
+    padding: 250px;
+    font-family: 'Righteous', cursive;
+    font-size: 50px ;
+
+} */
+.content-wrapper {
+    background-color: white;
+    font-size: 25px;
+    color: darkgoldenrod;
+}
+.content-wrapper h6{
+    background-image:url("imgs/g3.png ");
+    height: 200px;
+    text-align: center;
+    padding: 250px;
+}
+.content-wrapper h1{
+    font-family: 'ZCOOL QingKe HuangYou', cursive;
+    font-size: 50px;
+    color: rgb(255, 255, 255);
+}
+#first{
+    font-family: 'ZCOOL QingKe HuangYou', cursive;
+    background-color: rgb(116, 48, 226);
+    font-size: 25px;
+    padding-top: 100px;
+    padding: 70px;
+}
+.lastResult {
+    color: white;
+    padding: 3px;
+}
+.center{
+    background-color: rgb(24, 107, 231);
+    padding-bottom: 100px;
+}
+.form{
+    color: darkblue;
+    font-family: 'ZCOOL QingKe HuangYou', cursive;
+}
+input {
+    background-color: white;
+}
